@@ -81,21 +81,21 @@
         </section>
         <section class="py-4 mt-4" id="axes">
             <div class="container container-xl">
-                <h2 class="section-title text-center mb-4 pb-2 position-relative animate__animated animate__fadeIn">EJES DEL PROYECTO <i class="fas fa-cogs ms-2"></i></h2>
+                <h2 class="section-title text-center mb-4 pb-2 position-relative animate__animated animate__fadeIn">COMPONENTES DEL PROYECTO <i class="fas fa-cogs ms-2"></i></h2>
                 <div class="row row-cols-1 row-cols-md-2 g-4 justify-content-center">
                     <div class="col animate__animated animate__fadeInUp">
-                        <div class="card h-100 border-0 shadow-lg rounded-4 axis-card" data-axis="comunicacion">
+                        <div class="card h-100 border-0 shadow-lg rounded-4 axis-card" data-axis="comunicacion" data-bs-toggle="modal" data-bs-target="#axisDetailModal" style="cursor: pointer;">
                             <div class="card-body d-flex flex-column align-items-center text-center p-4">
                                 <div class="axis-icon-container mb-3">
                                     <img src="assets/images/comunicacion.jpg" alt="Icono de Comunicación" class="axis-image rounded-circle border border-5">
                                 </div>
                                 <h3 class="card-title fw-bold text-dark mb-2">COMUNICACIÓN</h3>
-                                <p class="card-text text-muted flex-grow-1 fs-6">Este eje busca <strong>fortalecer los canales, mensajes y herramientas comunicacionales</strong> orientadas a la prevención y tratamiento de la anemia infantil.</p>
+                                <p class="card-text text-muted flex-grow-1 fs-6">Este componente busca <strong>fortalecer los canales, mensajes y herramientas comunicacionales</strong> orientadas a la prevención y tratamiento de la anemia infantil.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col animate__animated animate__fadeInUp animate__delay-1s">
-                        <div class="card h-100 border-0 shadow-lg rounded-4 axis-card" data-axis="participacion">
+                        <div class="card h-100 border-0 shadow-lg rounded-4 axis-card" data-axis="participacion" data-bs-toggle="modal" data-bs-target="#axisDetailModal" style="cursor: pointer;">
                             <div class="card-body d-flex flex-column align-items-center text-center p-4">
                                 <div class="axis-icon-container mb-3">
                                     <img src="assets/images/participacion.jpg" alt="Icono de Participación" class="axis-image rounded-circle border border-5">
@@ -106,24 +106,24 @@
                         </div>
                     </div>
                     <div class="col animate__animated animate__fadeInUp animate__delay-2s">
-                        <div class="card h-100 border-0 shadow-lg rounded-4 axis-card" data-axis="cultura">
+                        <div class="card h-100 border-0 shadow-lg rounded-4 axis-card" data-axis="cultura" data-bs-toggle="modal" data-bs-target="#axisDetailModal" style="cursor: pointer;">
                             <div class="card-body d-flex flex-column align-items-center text-center p-4">
                                 <div class="axis-icon-container mb-3">
                                     <img src="assets/images/cultura.jpg" alt="Icono de Cultura" class="axis-image rounded-circle border border-5">
                                 </div>
                                 <h3 class="card-title fw-bold text-dark mb-2">CULTURA</h3>
-                                <p class="card-text text-muted flex-grow-1 fs-6">Atuncolla posee una riqueza cultural invaluable. Este eje impulsa la <strong>recuperación de saberes ancestrales, recetas tradicionales y costumbres</strong> que favorecen la buena nutrición.</p>
+                                <p class="card-text text-muted flex-grow-1 fs-6">Atuncolla posee una riqueza cultural invaluable. Este componente impulsa la <strong>recuperación de saberes ancestrales, recetas tradicionales y costumbres</strong> que favorecen la buena nutrición.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col animate__animated animate__fadeInUp animate__delay-3s">
-                        <div class="card h-100 border-0 shadow-lg rounded-4 axis-card" data-axis="articulacion">
+                        <div class="card h-100 border-0 shadow-lg rounded-4 axis-card" data-axis="articulacion" data-bs-toggle="modal" data-bs-target="#axisDetailModal" style="cursor: pointer;">
                             <div class="card-body d-flex flex-column align-items-center text-center p-4">
                                 <div class="axis-icon-container mb-3">
                                     <img src="assets/images/articulacion.jpg" alt="Icono de Articulación" class="axis-image rounded-circle border border-5">
                                 </div>
                                 <h3 class="card-title fw-bold text-dark mb-2">ARTICULACIÓN DE ACTORES CLAVE</h3>
-                                <p class="card-text text-muted flex-grow-1 fs-6">Este eje busca <strong>integrar los esfuerzos de las instituciones educativas, las familias y los centros de salud</strong>, generando redes de apoyo para asegurar un desarrollo integral de las niñas y niños.</p>
+                                <p class="card-text text-muted flex-grow-1 fs-6">Este componente busca <strong>integrar los esfuerzos de las instituciones educativas, las familias y los centros de salud</strong>, generando redes de apoyo para asegurar un desarrollo integral de las niñas y niños.</p>
                             </div>
                         </div>
                     </div>
@@ -154,6 +154,23 @@
             <p class="copy mb-0 x-small opacity-75">&copy; 2025 Proyecto Rana. Todos los derechos reservados.</p>
         </div>
     </footer>
+
+    <div class="modal fade" id="axisDetailModal" tabindex="-1" aria-labelledby="axisDetailModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="axisDetailModalLabel">Detalle del Componente</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body" id="axisDetailModalBody">
+                    </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <script src="js/script.js"></script>
 </body>
