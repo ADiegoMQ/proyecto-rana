@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const axisContents = {
         comunicacion: {
             title: 'Componente 1: Comunicación',
-            description: 'Este componente tiene como objetivo fortalecer los procesos comunicacionales sobre salud y nutrición en la comunidad educativa de Atuncolla, considerando el contexto cultural, lingüístico y territorial de la población. Las acciones se desarrollan desde un enfoque intercultural, educativo y comunitario, y buscan sensibilizar, informar y movilizar a la población frente a la problemática de la anemia infantil. Este componente es esencial para instalar capacidades comunicativas sostenibles en la comunidad y generar un entorno social informado, participativo y comprometido con la erradicación de la anemia infantil.',
+            description: 'Este componente tiene como objetivo fortalecer los procesos comunicacionales sobre salud y nutrición en la comunidad educativa de Atuncolla, considerando el contexto cultural, lingüístico y territorial de la población. Las acciones se desarrollan desde un enfoque intercultural, educativo y comunitario, y buscan sensibilizar, informar y movilizar a la población frente a la problemática de la anemia infantil.',
             points: [
                 {
                     letter: 'a',
@@ -120,7 +120,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     ]
                 }
             ],
-            verification: ''
+            verification: 'Cada una de estas acciones cuenta con medios de verificación como fotografías, grabaciones, guiones, listas de asistencia, retroalimentación comunitaria y cronogramas de ejecución. Aunque el desarrollo de este componente se apoya en alianzas con artistas locales, docentes, medios de comunicación y autoridades comunales, también se identifican posibles riesgos, como el desinterés de algunos sectores, fallas técnicas, problemas logísticos o escasa comprensión de los mensajes, los cuales se abordan mediante estrategias de mitigación y ajustes metodológicos. Este componente es esencial para instalar capacidades comunicativas sostenibles en la comunidad y generar un entorno social informado, participativo y comprometido con la erradicación de la anemia infantil.'
         },
         participacion: {
             title: 'Componente 2: Participación',
@@ -149,13 +149,13 @@ document.addEventListener('DOMContentLoaded', () => {
                         '<strong>Círculos de diálogo con moderador comunitario</strong>: Con el objetivo de consolidar canales de comunicación permanentes entre los actores involucrados, se implementan tres círculos de diálogo, cada uno con la participación de al menos diez personas, entre familias, docentes, promotores de salud y líderes comunales. Estos círculos son moderados por representantes de la propia comunidad previamente capacitados y se convierten en espacios seguros para expresar preocupaciones, compartir experiencias y construir propuestas conjuntas de acción frente a la anemia. La frecuencia y continuidad de los encuentros permite generar confianza y sostenibilidad en el proceso participativo.',
                         '<strong>Grupo de madres facilitadoras</strong>: Se conforma y capacita un grupo de cinco madres facilitadoras, seleccionadas de manera participativa y valorando su liderazgo natural dentro de la comunidad. Estas madres asumen el rol de agentes multiplicadoras de conocimientos, acompañando a otras familias en la implementación de prácticas alimentarias saludables y participando activamente en las actividades del proyecto. Su formación incluye temas de salud, nutrición, comunicación y liderazgo comunitario. El fortalecimiento de este grupo contribuye a empoderar a las mujeres como protagonistas del cambio en sus hogares y en su comunidad.'
                     ]
-                },
+                }
             ],
-            verification: ''
+            verification: 'Todas las acciones de este componente se verifican mediante registros de asistencia, informes de talleres, fotografías y testimonios. La participación activa de las familias y líderes comunitarios es crucial para el éxito, y se gestionan posibles desafíos como la falta de tiempo o la resistencia al cambio a través de flexibilidad en la programación y comunicación constante.'
         },
         cultura: {
             title: 'Componente 3: Revalorizar la cultura orientada a prácticas alimentarias saludables',
-            description: 'Este componente se enfoca en rescatar, visibilizar y fortalecer los saberes culturales relacionados con la alimentación saludable, promoviendo el reconocimiento de prácticas ancestrales y su integración con conocimientos nutricionales actuales. Se parte de la premisa de que la cultura local, lejos de ser un obstáculo, constituye un recurso fundamental para transformar hábitos alimenticios, generar confianza en las intervenciones y fomentar el cuidado de la salud infantil desde una mirada comunitaria, identitaria y sostenible. Este componente contribuye significativamente a fortalecer la identidad cultural, posicionar el conocimiento local como fuente de soluciones, y construir confianza en las herramientas modernas de intervención, integrándolas desde el respeto y el diálogo intercultural.',
+            description: 'Este componente se enfoca en rescatar, visibilizar y fortalecer los saberes culturales relacionados con la alimentación saludable, promoviendo el reconocimiento de prácticas ancestrales y su integración con conocimientos nutricionales actuales. Se parte de la premisa de que la cultura local, lejos de ser un obstáculo, constituye un recurso fundamental para transformar hábitos alimenticios, generar confianza en las intervenciones y fomentar el cuidado de la salud infantil desde una mirada comunitaria, identitaria y sostenible.',
             points: [
                 {
                     letter: 'a',
@@ -180,13 +180,13 @@ document.addEventListener('DOMContentLoaded', () => {
                         '<strong>Dramatización con títeres o sketchs</strong>: Se presentan dos dramatizaciones o sketchs breves, realizados por niños, promotores o grupos culturales, que abordan los beneficios del consumo de suplementos de hierro o alimentos fortificados, desmontando mitos y generando confianza en su uso. Estas representaciones se preparan con lenguaje coloquial, sentido del humor y mensajes claros, y se presentan en espacios abiertos o en el marco de ferias y actividades escolares. El formato lúdico permite romper barreras emocionales y culturales frente al uso de suplementos, y se evalúa su impacto a través de encuestas cortas realizadas antes y después de la intervención.',
                         '<strong>Muestra familiar con degustación y explicaciones</strong>: Se organiza una muestra familiar en la que se presentan alimentos fortificados y suplementos disponibles, acompañados de explicaciones claras y demostraciones prácticas sobre cómo usarlos, combinarlos y administrarlos en el hogar. La actividad incluye una pequeña degustación guiada, con respuestas a dudas frecuentes, testimonios de uso positivo y material educativo impreso. Participan al menos 20 familias, y se aplica una evaluación breve que mide el cambio en la percepción y disposición al uso de suplementos. Esta acción busca desmitificar y legitimar los suplementos como parte de una estrategia integral de prevención de la anemia.'
                     ]
-                },
+                }
             ],
-            verification: ''
+            verification: 'Todas las acciones están documentadas mediante fotografías, registros audiovisuales, encuestas, fichas de recetas, actas comunales y testimonios. La implementación del componente se basa en el interés del personal educativo, la valoración de los alimentos tradicionales y la disponibilidad institucional de insumos y materiales informativos. No obstante, se consideran posibles riesgos como la baja comprensión de conceptos por parte de los niños si no se adapta adecuadamente el contenido, el prejuicio hacia alimentos nuevos o la resistencia a los suplementos debido a mitos o desinformación previa, los cuales son atendidos mediante estrategias pedagógicas, validación cultural y mensajes cuidadosamente diseñados. Este componente contribuye significativamente a fortalecer la identidad cultural, posicionar el conocimiento local como fuente de soluciones, y construir confianza en las herramientas modernas de intervención, integrándolas desde el respeto y el diálogo intercultural.'
         },
         articulacion: {
             title: 'Componente 4: Articulación entre Actores Clave',
-            description: 'Este componente busca consolidar una red de colaboración estructurada y sostenible entre los actores educativos, familiares y sanitarios, para abordar de forma conjunta y coherente la problemática de la anemia infantil en la comunidad de Atuncolla. Se reconoce que el impacto de las intervenciones mejora significativamente cuando existe coordinación, seguimiento compartido y retroalimentación constante entre quienes educan, cuidan y brindan atención en salud. Este componente constituye la columna vertebral del enfoque articulador del proyecto, donde la escuela, la familia y el centro de salud trabajan juntos por el bienestar de la infancia, compartiendo información, responsabilidades y decisiones clave para erradicar la anemia infantil de forma sostenible y culturalmente pertinente.',
+            description: 'Este componente busca consolidar una red de colaboración estructurada y sostenible entre los actores educativos, familiares y sanitarios, para abordar de forma conjunta y coherente la problemática de la anemia infantil en la comunidad de Atuncolla. Se reconoce que el impacto de las intervenciones mejora significativamente cuando existe coordinación, seguimiento compartido y retroalimentación constante entre quienes educan, cuidan y brindan atención en salud.',
             points: [
                 {
                     letter: 'a',
@@ -211,9 +211,9 @@ document.addEventListener('DOMContentLoaded', () => {
                         '<strong>Cuaderno familiar de nutrición con dibujos y observaciones</strong>: Se implementa un cuaderno familiar de nutrición dirigido a los hogares con niños diagnosticados con anemia o en riesgo. Este cuaderno contiene espacios para dibujos, observaciones cotidianas, anotaciones sobre alimentación diaria, consejos y recomendaciones, que las familias completan de manera autónoma o con el acompañamiento de facilitadores. Se espera que el cuaderno sea utilizado por al menos el 60% de las familias objetivo, y que sirva como una herramienta práctica y reflexiva para mejorar los hábitos alimentarios. Su diseño considera el nivel de alfabetización local, la estética cultural y la necesidad de mantener un tono cercano y no sancionador.',
                         '<strong>Visitas domiciliarias con fichas de seguimiento</strong>: Como complemento del cuaderno, se realizan al menos 15 visitas domiciliarias a lo largo del proyecto, especialmente dirigidas a familias con mayor vulnerabilidad o casos de anemia persistente. Estas visitas tienen fines educativos y de seguimiento, nunca fiscalizadores, y son ejecutadas por profesionales de salud o facilitadores comunitarios con formación previa. En cada visita, se aplican fichas de observación y retroalimentación, se responden dudas, se refuerzan mensajes clave y se identifican posibles barreras en la alimentación familiar. Esta estrategia permite personalizar las recomendaciones, construir confianza con las familias y documentar progresos o necesidades específicas.'
                     ]
-                },
+                }
             ],
-            verification: ''
+            verification: 'Las acciones de este componente se verifican mediante actas, fotografías, planes de clase, productos estudiantiles, registros de visitas y reportes de uso de los cuadernos familiares. Su implementación se sostiene en la disposición de coordinación interinstitucional, el interés docente y la apertura familiar, aunque se identifican posibles riesgos, como agendas recargadas, falta de tiempo, desinterés puntual de alguno de los actores o rechazo a la intervención domiciliaria. Estos escenarios se previenen mediante una planificación participativa, estrategias de motivación y ajustes metodológicos según el contexto. Este componente constituye la columna vertebral del enfoque articulador del proyecto, donde la escuela, la familia y el centro de salud trabajan juntos por el bienestar de la infancia, compartiendo información, responsabilidades y decisiones clave para erradicar la anemia infantil de forma sostenible y culturalmente pertinente.'
         }
     };
 
@@ -236,11 +236,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 });
                 bodyHtml += `</div>`;
 
-                // Esta sección ha sido eliminada
-                // if (content.verification) {
-                //     bodyHtml += `<h6 class="mt-4"><strong>Medios de Verificación y Consideraciones:</strong></h6>`;
-                //     bodyHtml += `<p class="small text-muted">${content.verification}</p>`;
-                // }
+                // Aquí se añade la sección de verificación y consideraciones
+                if (content.verification) {
+                    bodyHtml += `<h6 class="mt-4"><strong>Medios de Verificación y Consideraciones:</strong></h6>`;
+                    bodyHtml += `<p class="small text-muted">${content.verification}</p>`;
+                }
 
                 axisDetailModalBody.innerHTML = bodyHtml;
             } else {
