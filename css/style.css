@@ -210,22 +210,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .hero-waves > g use {
-    animation: move-wave 10s linear infinite alternate;
-    animation-delay: -2s;
+    animation: move-wave 60s linear infinite alternate;
+    animation-delay: 8s;
 }
 
 .hero-waves > g .wave1 {
-    animation-duration: 15s;
+    animation-duration: 35s;
     fill: rgba(255,255,255, .1);
 }
 
 .hero-waves > g .wave2 {
-    animation-duration: 10s;
+    animation-duration: 40s;
     fill: rgba(255,255,255, .2);
 }
 
 .hero-waves > g .wave3 {
-    animation-duration: 20s;
+    animation-duration: 45s;
     fill: rgba(255,255,255, .3);
 }
 
