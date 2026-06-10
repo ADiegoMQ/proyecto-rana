@@ -92,7 +92,7 @@ cd proyecto-rana
 
 Simplemente abre ``` index.html ```en tu navegador.
 
-👉 Recomendado: usar Visual Studio Code + Live Server
+### 👉 Recomendado: usar Visual Studio Code + Live Server
 
 ---
 
@@ -111,4 +111,4 @@ Cada actualización en la rama principal se refleja automáticamente en producci
 ## ⚠️ Aviso
 
 Este proyecto contiene únicamente el desarrollo técnico de la interfaz, maquetación y diseño frontend.
-Los contenidos institucionales pertenecen a los responsables del ### Proyecto Rana.
+Los contenidos institucionales pertenecen a los responsables del ```Proyecto Rana ```.
