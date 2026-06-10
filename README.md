@@ -77,16 +77,24 @@ Proyecto-Rana/
 ├── preguntas.html        # Módulo de preguntas frecuentes (FAQ)
 └── index.html            # Landing page / Punto de acceso principal
 ```
+---
+
 ## 🚀 Instalación y Uso
 🔹 Clonar repositorio
+```bash
 git clone https://github.com/ADiegoMQ/proyecto-rana.git
+```
 🔹 Entrar al proyecto
+```bash
 cd proyecto-rana
+```
 🔹 Ejecutar
 
-Simplemente abre index.html en tu navegador.
+Simplemente abre ``` index.html ```en tu navegador.
 
 👉 Recomendado: usar Visual Studio Code + Live Server
+
+---
 
 ## 🌐 Despliegue
 
@@ -96,10 +104,11 @@ Cada actualización en la rama principal se refleja automáticamente en producci
 
 ## 👨‍💻 Autor
 
-Diego — Frontend Developer
-GitHub: @ADiegoMQ
+### A. Diego 
+
+- GitHub: https://github.com/Alvaro-Diego-MQ
 
 ## ⚠️ Aviso
 
 Este proyecto contiene únicamente el desarrollo técnico de la interfaz, maquetación y diseño frontend.
-Los contenidos institucionales pertenecen a los responsables del Proyecto Rana.
+Los contenidos institucionales pertenecen a los responsables del ### Proyecto Rana.
