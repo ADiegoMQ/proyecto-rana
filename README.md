@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/logo.png" alt="Proyecto Rana Logo" width="180" height="180" style="border-radius: 50%; margin-bottom: 20px;"/>
+<img src="assets/images/logo.png" alt="Proyecto Rana Logo" width="180" height="180" style="border-radius: 50%; margin-bottom: 20px;"/>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ADiegoMQ/proyecto-rana?style=for-the-badge&color=4CAF50&logo=github&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ADiegoMQ/proyecto-rana?style=for-the-badge&color=2E7D32&logo=git&logoColor=white)
