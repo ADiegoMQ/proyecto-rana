@@ -21,7 +21,7 @@
 
 ### 📖 Descripción del Proyecto
 
-Este repositorio contiene la **modernización completa** del sitio web oficial para la iniciativa **"Proyecto Rana"**, migrando el contenido y la estructura que previamente se encontraban alojados en la plataforma Blogspot.
+Este repositorio contiene la **modernización completa** del sitio web oficial para la iniciativa **"Proyecto Rana"**, migrando el contenido y la estructura que previamente se encontraban alojados en la plataforma Google Sites.
 
 El trabajo consistió en un rediseño integral y desarrollo frontend desde cero utilizando tecnologías web nativas y modernas. El objetivo principal fue transformar la experiencia de usuario, optimizar la accesibilidad, renovar la estética visual por completo y asegurar una compatibilidad absoluta con dispositivos móviles.
 
