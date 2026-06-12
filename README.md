@@ -30,7 +30,7 @@ El trabajo consistió en un rediseño integral y desarrollo frontend desde cero 
 ## 🎯 Objetivos de la Modernización
 
 * 🚀 **Migración Tecnológica:** Reemplazar una plantilla rígida de Blogspot por una solución web estática, limpia y altamente eficiente.
-* 🎨 **Interfaz de Vanguardia:** Diseñar una UI moderna con tipografía estilizada, espaciados equilibrados y componentes limpios.
+* 🎨 **Interfaz Moderna:** Diseñar una UI moderna con tipografía estilizada, espaciados equilibrados y componentes limpios.
 * 🗺️ **Arquitectura de Información:** Optimizar los menús y la organización interna para facilitar el acceso al contenido.
 * 📱 **Adaptabilidad Total:** Implementar un diseño *Responsive* optimizado para smartphones, tablets y pantallas de escritorio.
 * 🛠️ **Mantenimiento Ágil:** Estructurar un código fuente legible, modular y fácil de actualizar a futuro.
@@ -111,4 +111,4 @@ Cada actualización en la rama principal se refleja automáticamente en producci
 ## ⚠️ Aviso
 
 Este proyecto contiene únicamente el desarrollo técnico de la interfaz, maquetación y diseño frontend.
-Los contenidos institucionales pertenecen a los responsables del ```Proyecto Rana ```.
+Los contenidos institucionales pertenecen a los responsables del ```Proyecto Rana ```
